@@ -1,20 +1,3 @@
-# scrape-app-reviews without coding through GUI
-let us get to know what they said about app
-
-
-
-## supported platform
-
-### apple app store
-
-
-### google  play store
-
-
-### huawei app store
-
-tbd
-
-### xiaomi app store
-
-tbd
+1. search app to a csv id list
+2. scrape the list to review result
+3. send to chatgpt pplx,find the target user and gap opportunity there
